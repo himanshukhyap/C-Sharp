@@ -1,0 +1,15 @@
+D:\Himanshu\C Sharp\Manipulate_LocalFilein_CSharp\Manipulate_Local_File\Manipulate_Local_File\bin\Debug\net6.0\Manipulate_Local_File.exe
+D:\Himanshu\C Sharp\Manipulate_LocalFilein_CSharp\Manipulate_Local_File\Manipulate_Local_File\bin\Debug\net6.0\Manipulate_Local_File.deps.json
+D:\Himanshu\C Sharp\Manipulate_LocalFilein_CSharp\Manipulate_Local_File\Manipulate_Local_File\bin\Debug\net6.0\Manipulate_Local_File.runtimeconfig.json
+D:\Himanshu\C Sharp\Manipulate_LocalFilein_CSharp\Manipulate_Local_File\Manipulate_Local_File\bin\Debug\net6.0\Manipulate_Local_File.dll
+D:\Himanshu\C Sharp\Manipulate_LocalFilein_CSharp\Manipulate_Local_File\Manipulate_Local_File\bin\Debug\net6.0\ref\Manipulate_Local_File.dll
+D:\Himanshu\C Sharp\Manipulate_LocalFilein_CSharp\Manipulate_Local_File\Manipulate_Local_File\bin\Debug\net6.0\Manipulate_Local_File.pdb
+D:\Himanshu\C Sharp\Manipulate_LocalFilein_CSharp\Manipulate_Local_File\Manipulate_Local_File\obj\Debug\net6.0\Manipulate_Local_File.csproj.AssemblyReference.cache
+D:\Himanshu\C Sharp\Manipulate_LocalFilein_CSharp\Manipulate_Local_File\Manipulate_Local_File\obj\Debug\net6.0\Manipulate_Local_File.GeneratedMSBuildEditorConfig.editorconfig
+D:\Himanshu\C Sharp\Manipulate_LocalFilein_CSharp\Manipulate_Local_File\Manipulate_Local_File\obj\Debug\net6.0\Manipulate_Local_File.AssemblyInfoInputs.cache
+D:\Himanshu\C Sharp\Manipulate_LocalFilein_CSharp\Manipulate_Local_File\Manipulate_Local_File\obj\Debug\net6.0\Manipulate_Local_File.AssemblyInfo.cs
+D:\Himanshu\C Sharp\Manipulate_LocalFilein_CSharp\Manipulate_Local_File\Manipulate_Local_File\obj\Debug\net6.0\Manipulate_Local_File.csproj.CoreCompileInputs.cache
+D:\Himanshu\C Sharp\Manipulate_LocalFilein_CSharp\Manipulate_Local_File\Manipulate_Local_File\obj\Debug\net6.0\Manipulate_Local_File.dll
+D:\Himanshu\C Sharp\Manipulate_LocalFilein_CSharp\Manipulate_Local_File\Manipulate_Local_File\obj\Debug\net6.0\ref\Manipulate_Local_File.dll
+D:\Himanshu\C Sharp\Manipulate_LocalFilein_CSharp\Manipulate_Local_File\Manipulate_Local_File\obj\Debug\net6.0\Manipulate_Local_File.pdb
+D:\Himanshu\C Sharp\Manipulate_LocalFilein_CSharp\Manipulate_Local_File\Manipulate_Local_File\obj\Debug\net6.0\Manipulate_Local_File.genruntimeconfig.cache
