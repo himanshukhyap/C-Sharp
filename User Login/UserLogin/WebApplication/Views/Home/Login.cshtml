@@ -1,0 +1,23 @@
+﻿
+@{
+    Layout = null;
+}
+@model List<WebApplication.Model.UserProfile>
+<div class="row">
+
+    <div class="container">
+        @using (Html.BeginForm("Login", "Home", FormMethod.Post))
+        {
+
+            <input type="text" id="UserName" class="form-control" placeholder="User Name" name="UserName" />
+            <br />
+            <input type="text" id="Password" class="form-control" name="Password" placeholder="Password" />
+            <br />
+            <button type="submit">Submit</button>
+
+        }
+    </div>
+
+
+
+</div>

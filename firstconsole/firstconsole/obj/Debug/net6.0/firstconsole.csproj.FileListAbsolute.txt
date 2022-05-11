@@ -1,0 +1,15 @@
+C:\Users\himan\source\repos\firstconsole\firstconsole\bin\Debug\net6.0\firstconsole.exe
+C:\Users\himan\source\repos\firstconsole\firstconsole\bin\Debug\net6.0\firstconsole.deps.json
+C:\Users\himan\source\repos\firstconsole\firstconsole\bin\Debug\net6.0\firstconsole.runtimeconfig.json
+C:\Users\himan\source\repos\firstconsole\firstconsole\bin\Debug\net6.0\firstconsole.dll
+C:\Users\himan\source\repos\firstconsole\firstconsole\bin\Debug\net6.0\ref\firstconsole.dll
+C:\Users\himan\source\repos\firstconsole\firstconsole\bin\Debug\net6.0\firstconsole.pdb
+C:\Users\himan\source\repos\firstconsole\firstconsole\obj\Debug\net6.0\firstconsole.csproj.AssemblyReference.cache
+C:\Users\himan\source\repos\firstconsole\firstconsole\obj\Debug\net6.0\firstconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\himan\source\repos\firstconsole\firstconsole\obj\Debug\net6.0\firstconsole.AssemblyInfoInputs.cache
+C:\Users\himan\source\repos\firstconsole\firstconsole\obj\Debug\net6.0\firstconsole.AssemblyInfo.cs
+C:\Users\himan\source\repos\firstconsole\firstconsole\obj\Debug\net6.0\firstconsole.csproj.CoreCompileInputs.cache
+C:\Users\himan\source\repos\firstconsole\firstconsole\obj\Debug\net6.0\firstconsole.dll
+C:\Users\himan\source\repos\firstconsole\firstconsole\obj\Debug\net6.0\ref\firstconsole.dll
+C:\Users\himan\source\repos\firstconsole\firstconsole\obj\Debug\net6.0\firstconsole.pdb
+C:\Users\himan\source\repos\firstconsole\firstconsole\obj\Debug\net6.0\firstconsole.genruntimeconfig.cache

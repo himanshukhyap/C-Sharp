@@ -1,0 +1,179 @@
+﻿
+<body>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <div class="container">
+        <div class="form-group">
+            <label>First Name : </label>
+            <input id="fname" type="text" class="form-control w-25" />
+            <label>Last Name : </label><br />
+            <input id="lname" type="text" class="form-control w-25" />
+            <label>User Name : </label><br />
+            <input id="uname" type="text" class="form-control w-25" />
+            <label>Password : </label><br />
+            <input id="password" type="text" class="form-control w-25" />
+
+            <br />
+            <button id="btn" class="btn btn-primary">Submit</button>
+
+
+            <button id="btn1" class="btn btn-secondary" onclick="update(idd)">update</button>
+        </div>
+        <div class="my-3">
+            <table id="myTable" class="table table-dark">
+                <tr>
+
+
+
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                    <th>User Name</th>
+                    <th>Password</th>
+                    <th>Action</th>
+
+                </tr>
+            </table>
+        </div>
+    </div>
+
+
+    <script>
+        var idd;
+
+        function getserverdata() {
+            $.ajax({
+
+                url: "https://localhost:44360/api/userdata/GetUser",
+                type: 'get',
+
+                success: function (result) {
+                    var table = document.getElementById('myTable');
+
+
+                    result.map(x => {
+                        var row = table.insertRow(1);
+                        var cell0 = row.insertCell(0);
+                        var cell1 = row.insertCell(1);
+                        var cell2 = row.insertCell(2);
+                        var cell3 = row.insertCell(3);
+                        var cell4 = row.insertCell(4);
+
+                        cell0.innerHTML = x["UserId"];
+
+                        cell0.innerHTML = x['FirstName'];
+                        cell1.innerHTML = x['LastName'];
+                        cell2.innerHTML = x['Username'];
+                        cell3.innerHTML = x['Password'];
+                        cell4.innerHTML =
+                            '<button type="button" id="btn" class="btn btn-danger" onclick="deleteRow(' + x["UserId"] + ')">Delete</button>' + " " +
+                            '<button type="button" id="edit" class="btn btn-success" onclick="Edit(' + x["UserId"] + ')">Edit</button>';
+                    });
+
+
+                },
+                error: function () {
+                    alert("error");
+                }
+            });
+        }
+        getserverdata();
+        $(document).ready(function () {
+
+            $("#btn").click(function () {
+                $.ajax({
+
+                    url: "https://localhost:44360/api/userdata/Post",
+                    type: 'post',
+                    data: JSON.stringify({
+                        FirstName: document.getElementById('fname').value,
+                        LastName: document.getElementById('lname').value,
+                        Username: document.getElementById('uname').value,
+                        Password: document.getElementById('password').value
+                    }),
+                    contentType: 'application/json; charset=utf-8',
+                    success: function (result) {
+                        console.log(result)
+
+                        window.location.reload()
+                    },
+                    error: function () {
+                        alert("error");
+                    }
+                });
+            });
+
+
+
+
+        });
+
+
+        function deleteRow(YourID) {
+            console.log(YourID)
+
+            $.ajax({
+                url: "https://localhost:44360/api/userdata/Delete/" + YourID,
+                type: 'delete',
+
+                success: function (r) {
+                    window.location.reload()
+
+                },
+                error: function () {
+                    alert("error");
+                }
+            });
+
+
+        }
+
+        function Edit(YourID) {
+            idd = YourID;
+            console.log(YourID)
+
+            $.ajax({
+
+                url: "https://localhost:44360/api/userdata/GetUserbyId/" + YourID,
+                type: 'get',
+
+                success: function (result) {
+                    console.log(result)
+                    document.getElementById('fname').value = result.FirstName;
+                    document.getElementById('lname').value = result.LastName;
+                    document.getElementById('uname').value = result.Username;
+                    document.getElementById('password').value = result.Password;
+                    //  console.log(result.title)
+
+                },
+                error: function () {
+                    alert("error");
+                }
+            });
+
+
+        }
+
+        function update(idd) {
+            console.log(idd)
+            $.ajax({
+
+                url: "https://localhost:44360/api/userdata/Put/" + idd,
+                type: 'put',
+                data: JSON.stringify({
+                    FirstName: document.getElementById('fname').value,
+                    LastName: document.getElementById('lname').value,
+                    Username: document.getElementById('uname').value,
+                    Password: document.getElementById('password').value
+                }),
+                contentType: 'application/json; charset=utf-8',
+                success: function (result) {
+                    console.log(result)
+                    window.location.reload()
+                },
+                error: function () {
+                    alert("error");
+                }
+            });
+        }
+    </script>
+</body>

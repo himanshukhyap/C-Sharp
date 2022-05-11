@@ -1,0 +1,12 @@
+C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataModel\bin\Debug\DataModel.dll.config
+C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataModel\bin\Debug\DataModel.dll
+C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataModel\bin\Debug\DataModel.pdb
+C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataModel\bin\Debug\EntityFramework.dll
+C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataModel\bin\Debug\EntityFramework.xml
+C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataModel\obj\Debug\DataModel.csproj.AssemblyReference.cache
+C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataModel\obj\Debug\DataModel.csproj.CopyComplete
+C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataModel\obj\Debug\DataModel.dll
+C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataModel\obj\Debug\DataModel.pdb

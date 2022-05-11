@@ -1,0 +1,15 @@
+C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataAcessLayer\obj\Debug\DataAcessLayer.csproj.AssemblyReference.cache
+C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataAcessLayer\obj\Debug\DataAcessLayer.csproj.CoreCompileInputs.cache
+C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataAcessLayer\bin\Debug\DataAcessLayer.dll.config
+C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataAcessLayer\bin\Debug\DataAcessLayer.dll
+C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataAcessLayer\bin\Debug\DataAcessLayer.pdb
+C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataAcessLayer\bin\Debug\DataModel.dll
+C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataAcessLayer\bin\Debug\EntityFramework.dll
+C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataAcessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataAcessLayer\bin\Debug\DataModel.pdb
+C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataAcessLayer\bin\Debug\DataModel.dll.config
+C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataAcessLayer\bin\Debug\EntityFramework.xml
+C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataAcessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataAcessLayer\obj\Debug\DataAcessLayer.csproj.CopyComplete
+C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataAcessLayer\obj\Debug\DataAcessLayer.dll
+C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataAcessLayer\obj\Debug\DataAcessLayer.pdb

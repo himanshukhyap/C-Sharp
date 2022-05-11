@@ -1,0 +1,30 @@
+C:\Users\himan\source\repos\firstconsole\firstconsole\bin\Debug\net6.0\Basic.exe
+C:\Users\himan\source\repos\firstconsole\firstconsole\bin\Debug\net6.0\Basic.dll
+C:\Users\himan\source\repos\firstconsole\firstconsole\obj\Debug\net6.0\Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\himan\source\repos\firstconsole\firstconsole\obj\Debug\net6.0\Basic.AssemblyInfoInputs.cache
+C:\Users\himan\source\repos\firstconsole\firstconsole\obj\Debug\net6.0\Basic.AssemblyInfo.cs
+C:\Users\himan\source\repos\firstconsole\firstconsole\obj\Debug\net6.0\Basic.csproj.CoreCompileInputs.cache
+C:\Users\himan\source\repos\firstconsole\firstconsole\obj\Debug\net6.0\Basic.dll
+C:\Users\himan\source\repos\firstconsole\firstconsole\obj\Debug\net6.0\ref\Basic.dll
+C:\Users\himan\source\repos\firstconsole\firstconsole\obj\Debug\net6.0\Basic.pdb
+C:\Users\himan\source\repos\firstconsole\firstconsole\obj\Debug\net6.0\Basic.csproj.AssemblyReference.cache
+C:\Users\himan\source\repos\firstconsole\firstconsole\bin\Debug\net6.0\Basic.deps.json
+C:\Users\himan\source\repos\firstconsole\firstconsole\bin\Debug\net6.0\Basic.runtimeconfig.json
+C:\Users\himan\source\repos\firstconsole\firstconsole\bin\Debug\net6.0\ref\Basic.dll
+C:\Users\himan\source\repos\firstconsole\firstconsole\bin\Debug\net6.0\Basic.pdb
+C:\Users\himan\source\repos\firstconsole\firstconsole\obj\Debug\net6.0\Basic.genruntimeconfig.cache
+C:\Users\himan\OneDrive\C Sharp\Project\firstconsole\firstconsole\obj\Debug\net6.0\Basic.csproj.AssemblyReference.cache
+C:\Users\himan\OneDrive\C Sharp\Project\firstconsole\firstconsole\obj\Debug\net6.0\Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\himan\OneDrive\C Sharp\Project\firstconsole\firstconsole\obj\Debug\net6.0\Basic.AssemblyInfoInputs.cache
+C:\Users\himan\OneDrive\C Sharp\Project\firstconsole\firstconsole\obj\Debug\net6.0\Basic.AssemblyInfo.cs
+C:\Users\himan\OneDrive\C Sharp\Project\firstconsole\firstconsole\obj\Debug\net6.0\Basic.csproj.CoreCompileInputs.cache
+C:\Users\himan\OneDrive\C Sharp\Project\firstconsole\firstconsole\obj\Debug\net6.0\Basic.dll
+C:\Users\himan\OneDrive\C Sharp\Project\firstconsole\firstconsole\obj\Debug\net6.0\ref\Basic.dll
+C:\Users\himan\OneDrive\C Sharp\Project\firstconsole\firstconsole\obj\Debug\net6.0\Basic.pdb
+C:\Users\himan\OneDrive\C Sharp\Project\firstconsole\firstconsole\bin\Debug\net6.0\Basic.exe
+C:\Users\himan\OneDrive\C Sharp\Project\firstconsole\firstconsole\bin\Debug\net6.0\Basic.deps.json
+C:\Users\himan\OneDrive\C Sharp\Project\firstconsole\firstconsole\bin\Debug\net6.0\Basic.runtimeconfig.json
+C:\Users\himan\OneDrive\C Sharp\Project\firstconsole\firstconsole\bin\Debug\net6.0\Basic.dll
+C:\Users\himan\OneDrive\C Sharp\Project\firstconsole\firstconsole\bin\Debug\net6.0\ref\Basic.dll
+C:\Users\himan\OneDrive\C Sharp\Project\firstconsole\firstconsole\bin\Debug\net6.0\Basic.pdb
+C:\Users\himan\OneDrive\C Sharp\Project\firstconsole\firstconsole\obj\Debug\net6.0\Basic.genruntimeconfig.cache

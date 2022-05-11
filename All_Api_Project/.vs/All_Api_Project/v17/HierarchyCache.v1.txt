@@ -1,0 +1,356 @@
+﻿++Solution 'All_Api_Project' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:All_Api_Project.sln
+++All_Api_Project
+i:{00000000-0000-0000-0000-000000000000}:All_Api_Project
+++Properties
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\properties\
+++References
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++Antlr3.Runtime
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++EntityFramework
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++EntityFramework.SqlServer
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++Grpc.Core
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++Grpc.Core.Api
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++Microsoft.AspNetCore.Http.Abstractions
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++Microsoft.AspNetCore.Http.Extensions
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++Microsoft.AspNetCore.Http.Features
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++Microsoft.CSharp
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++Microsoft.Extensions.Configuration.Abstractions
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++Microsoft.Extensions.DependencyInjection.Abstractions
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++Microsoft.Extensions.FileProviders.Abstractions
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++Microsoft.Extensions.Logging.Abstractions
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++Microsoft.Extensions.Options
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++Microsoft.Extensions.Primitives
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++Microsoft.Net.Http.Headers
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++Microsoft.Web.Infrastructure
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++Newtonsoft.Json
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Buffers
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.ComponentModel.Annotations
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.ComponentModel.DataAnnotations
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Configuration
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Core
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Data
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Data.DataSetExtensions
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Drawing
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Memory
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Net.Http
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Net.Http.Formatting
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Net.Http.WebRequest
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Numerics
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Numerics.Vectors
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Runtime.CompilerServices.Unsafe
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Runtime.Serialization
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Security
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Text.Encodings.Web
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Web
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Web.Abstractions
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Web.ApplicationServices
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Web.Cors
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Web.Entity
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Web.Helpers
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Web.Http
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Web.Http.Cors
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Web.Http.WebHost
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Web.Mvc
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Web.Optimization
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Web.Razor
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Web.Routing
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Web.WebPages
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Web.WebPages.Deployment
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Web.WebPages.Razor
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Xml
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++System.Xml.Linq
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++WebGrease
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:
+++App_Data
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\app_data\
+++App_Start
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\app_start\
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\app_start\
+++BundleConfig.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\app_start\filterconfig.cs
+++RouteConfig.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\app_start\routeconfig.cs
+++WebApiConfig.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\app_start\webapiconfig.cs
+++Areas
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\
+++Assest
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\assest\
+++Content
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\content\
+++Controllers
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\controllers\
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\controllers\
+++DateController.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\controllers\datecontroller.cs
+++HomeController.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\controllers\homecontroller.cs
+++ImageController.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\controllers\imagecontroller.cs
+++ValuesController.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\controllers\valuescontroller.cs
+++fonts
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\fonts\
+++Models
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\models\
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\models\
+++Date_tbl.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\models\date_tbl.cs
+++DateConnection.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\models\dateconnection.cs
+++Img_tbl.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\models\img_tbl.cs
+++ImgDataConnection.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\models\imgdataconnection.cs
+++Scripts
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\scripts\
+++Views
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\views\
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\views\
+++Date
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\views\date\
+++Home
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\views\home\
+++Image
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\views\image\
+++Shared
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\views\shared\
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\views\shared\
+++_ViewStart.cshtml
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\views\_viewstart.cshtml
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\views\_viewstart.cshtml
+++Web.config
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\views\web.config
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\web.config
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\views\web.config
+++favicon.ico
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\favicon.ico
+++Global.asax
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\global.asax
+++packages.config
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\packages.config
+++AssemblyInfo.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\properties\assemblyinfo.cs
+++HelpPage
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\
+++bootstrap-theme.css
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\content\bootstrap.css
+++bootstrap.css.map
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\content\bootstrap.css.map
+++bootstrap.min.css
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\content\bootstrap.min.css.map
+++Site.css
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\content\site.css
+++glyphicons-halflings-regular.eot
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\fonts\glyphicons-halflings-regular.woff2
+++bootstrap.js
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\scripts\bootstrap.js
+++bootstrap.min.js
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\scripts\jquery-3.4.1.slim.min.map
+++modernizr-2.8.3.js
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\scripts\modernizr-2.8.3.js
+++Index.cshtml
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\views\home\index.cshtml
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\views\help\index.cshtml
+++_Layout.cshtml
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\views\shared\_layout.cshtml
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\views\shared\_layout.cshtml
+++Error.cshtml
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\views\shared\error.cshtml
+++Global.asax.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\global.asax.cs
+++Web.Debug.config
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\web.debug.config
+++Web.Release.config
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\web.release.config
+++ModelDescriptions
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\modeldescriptions\
+++SampleGeneration
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\samplegeneration\
+++ApiDescriptionExtensions.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\apidescriptionextensions.cs
+++HelpPage.css
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\helppage.css
+++HelpPageAreaRegistration.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\helppagearearegistration.cs
+++HelpPageConfigurationExtensions.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\helppageconfigurationextensions.cs
+++XmlDocumentationProvider.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\xmldocumentationprovider.cs
+++HelpPageConfig.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\app_start\helppageconfig.cs
+++HelpController.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\controllers\helpcontroller.cs
+++CollectionModelDescription.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\modeldescriptions\collectionmodeldescription.cs
+++ComplexTypeModelDescription.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\modeldescriptions\complextypemodeldescription.cs
+++DictionaryModelDescription.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\modeldescriptions\dictionarymodeldescription.cs
+++EnumTypeModelDescription.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\modeldescriptions\enumtypemodeldescription.cs
+++EnumValueDescription.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\modeldescriptions\enumvaluedescription.cs
+++IModelDocumentationProvider.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\modeldescriptions\imodeldocumentationprovider.cs
+++KeyValuePairModelDescription.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\modeldescriptions\keyvaluepairmodeldescription.cs
+++ModelDescription.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\modeldescriptions\modeldescription.cs
+++ModelDescriptionGenerator.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\modeldescriptions\modeldescriptiongenerator.cs
+++ModelNameAttribute.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\modeldescriptions\modelnameattribute.cs
+++ModelNameHelper.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\modeldescriptions\modelnamehelper.cs
+++ParameterAnnotation.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\modeldescriptions\parameterannotation.cs
+++ParameterDescription.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\modeldescriptions\parameterdescription.cs
+++SimpleTypeModelDescription.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\modeldescriptions\simpletypemodeldescription.cs
+++HelpPageApiModel.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\models\helppageapimodel.cs
+++HelpPageSampleGenerator.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\samplegeneration\helppagesamplegenerator.cs
+++HelpPageSampleKey.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\samplegeneration\helppagesamplekey.cs
+++ImageSample.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\samplegeneration\imagesample.cs
+++InvalidSample.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\samplegeneration\invalidsample.cs
+++ObjectGenerator.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\samplegeneration\objectgenerator.cs
+++SampleDirection.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\samplegeneration\sampledirection.cs
+++TextSample.cs
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\samplegeneration\textsample.cs
+++Help
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\views\help\
+++DisplayTemplates
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\views\help\displaytemplates\
+++Api.cshtml
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\views\help\api.cshtml
+++ResourceModel.cshtml
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\views\help\resourcemodel.cshtml
+++ApiGroup.cshtml
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\views\help\displaytemplates\apigroup.cshtml
+++CollectionModelDescription.cshtml
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\views\help\displaytemplates\collectionmodeldescription.cshtml
+++ComplexTypeModelDescription.cshtml
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\views\help\displaytemplates\complextypemodeldescription.cshtml
+++DictionaryModelDescription.cshtml
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\views\help\displaytemplates\dictionarymodeldescription.cshtml
+++EnumTypeModelDescription.cshtml
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\views\help\displaytemplates\enumtypemodeldescription.cshtml
+++HelpPageApiModel.cshtml
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\views\help\displaytemplates\helppageapimodel.cshtml
+++ImageSample.cshtml
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\views\help\displaytemplates\imagesample.cshtml
+++InvalidSample.cshtml
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\views\help\displaytemplates\invalidsample.cshtml
+++KeyValuePairModelDescription.cshtml
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\views\help\displaytemplates\keyvaluepairmodeldescription.cshtml
+++ModelDescriptionLink.cshtml
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\views\help\displaytemplates\modeldescriptionlink.cshtml
+++Parameters.cshtml
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\views\help\displaytemplates\parameters.cshtml
+++Samples.cshtml
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\views\help\displaytemplates\samples.cshtml
+++SimpleTypeModelDescription.cshtml
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\views\help\displaytemplates\simpletypemodeldescription.cshtml
+++TextSample.cshtml
+i:{99675b86-add6-4b2f-a009-b81cec9676c6}:c:\users\himan\onedrive\c sharp\project\all_api_project\all_api_project\areas\helppage\views\help\displaytemplates\textsample.cshtml

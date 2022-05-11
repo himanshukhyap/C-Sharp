@@ -40,6 +40,7 @@ namespace FireBase
         { "score", "850" },
         { "time", "2:45" },
     },
+               
             };
 
             var response = await FirebaseMessaging.DefaultInstance.SendMulticastAsync(message);
