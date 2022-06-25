@@ -27,37 +27,8 @@ namespace Basic         //namespace is used to organize your code, and it is a c
             System.Console.WriteLine("Hellow");
             Console.Write("I will print on a new line.");
 
-            /*......................Data Type...........................*/
-            int i = 50;
-            Console.WriteLine(i);             //50
-            double y = 502.35;
-            Console.WriteLine(y);               // 502.35
-            float f = 25.52F;
-            Console.WriteLine(f);           // 25.52
-            char ch = 'a';
-            Console.WriteLine(ch);          //a
-            bool myBool = true;
-            Console.WriteLine(myBool);          //true
-            string s = "Kashyap";
-            Console.WriteLine(s);               // Kashyap
-            string[] cars = { "Volvo", "BMW", "Ford", "Mazda" };
-
-            foreach (string num in cars)
-            {
-                Console.WriteLine(num);                    //  VolvoBMWFordMazda10
-            }
-
-            /*....................Casting......................*/
-
-
-            int myInt = 10;
-            double myDouble = 5.25;
-            bool myBool1 = true;
-
-            Console.WriteLine(Convert.ToString(myInt));    // convert int to string
-            Console.WriteLine(Convert.ToDouble(myInt));    // convert int to double
-            Console.WriteLine(Convert.ToInt32(myDouble));  // convert double to int
-            Console.WriteLine(Convert.ToString(myBool1));   // convert bool to string
+            ///*......................Data Type...........................*/
+            
 
 
             /* .....................User Input/Output.............................*/
@@ -168,7 +139,7 @@ namespace Basic         //namespace is used to organize your code, and it is a c
 
             /*...............................Construction.........................*/
 
-            Car Ford = new Car("KAshyap MOdel");  // Create an object of the Car Class (this will call the constructor)
+            Car Ford = new Car("KAshyap Model");  // Create an object of the Car Class (this will call the constructor)
             Console.WriteLine(Ford.model);        // Print the value of model
             Ford.model = "Changed MOdel";
             Console.WriteLine(Ford.model);
@@ -196,8 +167,7 @@ namespace Basic         //namespace is used to organize your code, and it is a c
             pig.animalSound();
             /*....................................................................................................................*/
           
-            Level myVar = Level.Medium;
-            Console.WriteLine(myVar);
+          
 
         }
     }

@@ -28,3 +28,18 @@ C:\Users\himan\OneDrive\C Sharp\Project\firstconsole\firstconsole\bin\Debug\net6
 C:\Users\himan\OneDrive\C Sharp\Project\firstconsole\firstconsole\bin\Debug\net6.0\ref\Basic.dll
 C:\Users\himan\OneDrive\C Sharp\Project\firstconsole\firstconsole\bin\Debug\net6.0\Basic.pdb
 C:\Users\himan\OneDrive\C Sharp\Project\firstconsole\firstconsole\obj\Debug\net6.0\Basic.genruntimeconfig.cache
+D:\C-Sharp\firstconsole\firstconsole\obj\Debug\net6.0\Basic.csproj.AssemblyReference.cache
+D:\C-Sharp\firstconsole\firstconsole\obj\Debug\net6.0\Basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\firstconsole\firstconsole\obj\Debug\net6.0\Basic.AssemblyInfoInputs.cache
+D:\C-Sharp\firstconsole\firstconsole\obj\Debug\net6.0\Basic.AssemblyInfo.cs
+D:\C-Sharp\firstconsole\firstconsole\obj\Debug\net6.0\Basic.csproj.CoreCompileInputs.cache
+D:\C-Sharp\firstconsole\firstconsole\obj\Debug\net6.0\Basic.dll
+D:\C-Sharp\firstconsole\firstconsole\obj\Debug\net6.0\ref\Basic.dll
+D:\C-Sharp\firstconsole\firstconsole\obj\Debug\net6.0\Basic.pdb
+D:\C-Sharp\firstconsole\firstconsole\bin\Debug\net6.0\Basic.exe
+D:\C-Sharp\firstconsole\firstconsole\bin\Debug\net6.0\Basic.deps.json
+D:\C-Sharp\firstconsole\firstconsole\bin\Debug\net6.0\Basic.runtimeconfig.json
+D:\C-Sharp\firstconsole\firstconsole\bin\Debug\net6.0\Basic.dll
+D:\C-Sharp\firstconsole\firstconsole\bin\Debug\net6.0\ref\Basic.dll
+D:\C-Sharp\firstconsole\firstconsole\bin\Debug\net6.0\Basic.pdb
+D:\C-Sharp\firstconsole\firstconsole\obj\Debug\net6.0\Basic.genruntimeconfig.cache

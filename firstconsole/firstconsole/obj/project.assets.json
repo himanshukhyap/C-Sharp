@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\himan\\OneDrive\\C Sharp\\Project\\firstconsole\\firstconsole\\Basic.csproj",
+      "projectUniqueName": "D:\\C-Sharp\\firstconsole\\firstconsole\\Basic.csproj",
       "projectName": "Basic",
-      "projectPath": "C:\\Users\\himan\\OneDrive\\C Sharp\\Project\\firstconsole\\firstconsole\\Basic.csproj",
+      "projectPath": "D:\\C-Sharp\\firstconsole\\firstconsole\\Basic.csproj",
       "packagesPath": "C:\\Users\\himan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\himan\\OneDrive\\C Sharp\\Project\\firstconsole\\firstconsole\\obj\\",
+      "outputPath": "D:\\C-Sharp\\firstconsole\\firstconsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\himan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
       }
     }
   }
