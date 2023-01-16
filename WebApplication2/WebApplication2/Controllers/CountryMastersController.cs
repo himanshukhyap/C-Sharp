@@ -24,6 +24,7 @@ namespace WebApplication2.Controllers
 
         // GET: api/CountryMasters/5
         [ResponseType(typeof(CountryMaster))]
+       
         public async Task<IHttpActionResult> GetCountryMaster(int id)
         {
             CountryMaster countryMaster = await db.CountryMasters.FindAsync(id);

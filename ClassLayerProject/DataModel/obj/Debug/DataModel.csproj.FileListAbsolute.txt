@@ -10,3 +10,7 @@ C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataModel\obj\Debug\Da
 C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataModel\obj\Debug\DataModel.csproj.CopyComplete
 C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataModel\obj\Debug\DataModel.dll
 C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\DataModel\obj\Debug\DataModel.pdb
+D:\C-Sharp\ClassLayerProject\DataModel\obj\Debug\DataModel.csproj.AssemblyReference.cache
+D:\C-Sharp\ClassLayerProject\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+D:\C-Sharp\ClassLayerProject\DataModel\obj\Debug\DataModel.dll
+D:\C-Sharp\ClassLayerProject\DataModel\obj\Debug\DataModel.pdb

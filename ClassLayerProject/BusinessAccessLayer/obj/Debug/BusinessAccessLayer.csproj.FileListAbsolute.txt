@@ -14,3 +14,19 @@ C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\BusinessAccessLayer\bi
 C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\BusinessAccessLayer\bin\Debug\EntityFramework.xml
 C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CopyComplete
 C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll.config
+D:\C-Sharp\ClassLayerProject\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll.config
+D:\C-Sharp\ClassLayerProject\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+D:\C-Sharp\ClassLayerProject\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+D:\C-Sharp\ClassLayerProject\BusinessAccessLayer\bin\Debug\DataAcessLayer.dll
+D:\C-Sharp\ClassLayerProject\BusinessAccessLayer\bin\Debug\DataModel.dll
+D:\C-Sharp\ClassLayerProject\BusinessAccessLayer\bin\Debug\EntityFramework.dll
+D:\C-Sharp\ClassLayerProject\BusinessAccessLayer\bin\Debug\DataAcessLayer.pdb
+D:\C-Sharp\ClassLayerProject\BusinessAccessLayer\bin\Debug\DataAcessLayer.dll.config
+D:\C-Sharp\ClassLayerProject\BusinessAccessLayer\bin\Debug\DataModel.pdb
+D:\C-Sharp\ClassLayerProject\BusinessAccessLayer\bin\Debug\DataModel.dll.config
+D:\C-Sharp\ClassLayerProject\BusinessAccessLayer\bin\Debug\EntityFramework.xml
+D:\C-Sharp\ClassLayerProject\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.AssemblyReference.cache
+D:\C-Sharp\ClassLayerProject\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+D:\C-Sharp\ClassLayerProject\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CopyComplete
+D:\C-Sharp\ClassLayerProject\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+D:\C-Sharp\ClassLayerProject\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb

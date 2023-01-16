@@ -20,3 +20,25 @@ C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\ClassLayerProject\bin\
 C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\ClassLayerProject\bin\Debug\DataAcessLayer.dll.config
 C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\ClassLayerProject\bin\Debug\BusinessAccessLayer.dll.config
 C:\Users\himan\OneDrive\C Sharp\Project\ClassLayerProject\ClassLayerProject\bin\Debug\ClassLayerProject.exe.config
+D:\C-Sharp\ClassLayerProject\ClassLayerProject\bin\Debug\ClassLayerProject.exe.config
+D:\C-Sharp\ClassLayerProject\ClassLayerProject\bin\Debug\ClassLayerProject.exe
+D:\C-Sharp\ClassLayerProject\ClassLayerProject\bin\Debug\ClassLayerProject.pdb
+D:\C-Sharp\ClassLayerProject\ClassLayerProject\bin\Debug\BusinessAccessLayer.dll
+D:\C-Sharp\ClassLayerProject\ClassLayerProject\bin\Debug\DataAcessLayer.dll
+D:\C-Sharp\ClassLayerProject\ClassLayerProject\bin\Debug\DataModel.dll
+D:\C-Sharp\ClassLayerProject\ClassLayerProject\bin\Debug\EntityFramework.dll
+D:\C-Sharp\ClassLayerProject\ClassLayerProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\C-Sharp\ClassLayerProject\ClassLayerProject\bin\Debug\BusinessAccessLayer.pdb
+D:\C-Sharp\ClassLayerProject\ClassLayerProject\bin\Debug\BusinessAccessLayer.dll.config
+D:\C-Sharp\ClassLayerProject\ClassLayerProject\bin\Debug\DataAcessLayer.pdb
+D:\C-Sharp\ClassLayerProject\ClassLayerProject\bin\Debug\DataAcessLayer.dll.config
+D:\C-Sharp\ClassLayerProject\ClassLayerProject\bin\Debug\DataModel.pdb
+D:\C-Sharp\ClassLayerProject\ClassLayerProject\bin\Debug\DataModel.dll.config
+D:\C-Sharp\ClassLayerProject\ClassLayerProject\bin\Debug\EntityFramework.xml
+D:\C-Sharp\ClassLayerProject\ClassLayerProject\bin\Debug\EntityFramework.SqlServer.xml
+D:\C-Sharp\ClassLayerProject\ClassLayerProject\obj\Debug\ClassLayerProject.csproj.AssemblyReference.cache
+D:\C-Sharp\ClassLayerProject\ClassLayerProject\obj\Debug\ClassLayerProject.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp\ClassLayerProject\ClassLayerProject\obj\Debug\ClassLayerProject.csproj.CoreCompileInputs.cache
+D:\C-Sharp\ClassLayerProject\ClassLayerProject\obj\Debug\ClassLayerProject.csproj.CopyComplete
+D:\C-Sharp\ClassLayerProject\ClassLayerProject\obj\Debug\ClassLayerProject.exe
+D:\C-Sharp\ClassLayerProject\ClassLayerProject\obj\Debug\ClassLayerProject.pdb
